@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Scaper | JavaScript, Thirdweb, Sanity, React, Next.js, Vercel
+• Developed a Web 3.0 full-stack cryptocurrency exchange platform using metamask wallet to transfer cryptocurrency  between two users, implemented using react modal.
+• Used React styled components for frontend, Sanity Structure tool, GROQ queries, Thirdweb dev-kit for backend.
+• Used Thirdweb to create smart contracts (ERC-20 tokens) integrated with Sanity to manage portfolio balance.
+• Used Next.js and Vercel for development and deployment.
+
 ## Getting Started
 
 First, run the development server:
